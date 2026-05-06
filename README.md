@@ -14,7 +14,7 @@ cs student | dsa | backend | building stuff that sometimes works
 
 ###
 
-<img align="right" height="180" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/luffy-one-piece.gif" />
+<img align="right" height="180" src="https://www.pinterest.com/pin/my-saves--657244139395865799/" />
 
 ###
 
