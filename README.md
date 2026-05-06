@@ -1,4 +1,4 @@
-<h2 align="left">yo, i'm Saheem — cs student, builder, and professional bug creator from India.</h2>
+<h2 align="left">yo, i'm Saheem</h2>
 
 ###
 
@@ -10,14 +10,14 @@
 
 ###
 
-<img align="right" height="180" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/luffy-one-piece.gif"  />
+<img align="right" height="190" src="YOUR_GIF_LINK_HERE" />
 
 ###
 
 ```cpp
 class Saheem {
 public:
-    string focus = "DSA + Development";
+    string role = "developer";
 
     vector<string> stack = {
         "C++",
@@ -27,8 +27,8 @@ public:
         "MySQL"
     };
 
-    void currentStatus() {
-        cout << "surviving on caffeine and debugging";
+    void grind() {
+        cout << "code > sleep";
     }
 };
 ```
@@ -36,26 +36,38 @@ public:
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,php,mysql,git,vscode" height="40" alt="tech stack" />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://github.com/saheemOlogN" target="_blank">
-    <img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,php,mysql,git,vscode" height="42" alt="tech stack" />
 </div>
 
 ###
 
 ```txt
-currently:
+current arc:
 - solving sliding window questions
-- building side projects
+- building side projects at 2am
+- fixing bugs with confidence and zero clues
 - waiting for one piece spoilers
-- fixing one bug and creating three more
 ```
+
+###
+
+<div align="left">
+  <a href="https://github.com/saheemOlogN" target="_blank">
+    <img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+
+```txt
+"people's dreams never end."
+```
+
+— Marshall D. Teach
+
+</div>
 
 ###
 
